@@ -1,0 +1,17 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar-brand i {
+    margin-right: 10px;
+}
+.card {
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+.btn {
+    border-radius: 25px;
+}
+.table {
+    border-radius: 10px;
+    overflow: hidden;
+}
